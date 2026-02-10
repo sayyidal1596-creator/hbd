@@ -1,22 +1,22 @@
  // Reasons database
  const reasons = [
     { 
-        text: "Happy birthday My Lopee Kanjutt, kanjaa tukang cemberut(IZIIINN🙏🙏)😖💖", 
+        text: "Happy birthday My Lopee Kanjutt, kanjaa tukang cemberut(IZIIINN🙏🙏)😖💖.Do you think i have forgotten? yaa jelas nggaa dong, pap pertama yang maneh kasii aja masii ada loh nanti liat aja deh di page selanjutnya bakal ada", 
         emoji: "🌟",
         gif: "boneka1.gif"
     },
     { 
-        text: "Semogaa panjang umur, sehat selalu, ga suka ngamuk muluu, jadi anak kebanggan Mamah🌸 ", 
+        text: "tapi jangan buruu-buru baca dulu sampe akhir inii tulisan aing, bikinnyaa lumayan lama nii terus dibantuin sama babaturan abdi oge, kaloo ga dibaca sihh kecewa berat aing.Oiyaaa jangan ngomel muluuu yaa geuliss nanti cepet tua", 
         emoji: "💗", 
         gif: "boneka2.gif"
     },
     { 
-        text: "jadi anak yang baik yes queen, jangan suka boong, jaga diri, jangan lupa ibadah✨ ", 
+        text: "jadi anak yang baik yes queen, jangan suka boong, jaga diri, jangan lupa ibadah✨Semogaa panjang umur, sehat selalu, ga suka ngamuk muluu, jadi anak kebanggan Mamah🌸, rezekinya dilancarinn dan semua yang diharapkan semoga cepet terkabul jugaa, sisanya tambahin sendirii jee, udaa banyak banget soalnyaa nii pegel  ", 
         emoji: "💕",
         gif: "boneka3.gif"
     },
     { 
-        text: "intinyaa jadi pribadi yang baik dan jujur, pinter, dan terserah maneh dah doanya lanjutin sendiri (AAMIIN)😘😘😘😘 ", 
+        text: "intinyaa jadi pribadi yang baik dan jujur, pinter, sholehah, rajin menabung dan tidak sombong, jangan lupa dengerin lagu favorit kamu sampe akhir nii.Jangan lupa say aamiin Queen biar dikabulin doa-doa nya(AAMIIN)😘😘😘😘 ", 
         emoji: "🌟",
         gif: "boneka4.gif"
     }
@@ -76,7 +76,7 @@ function displayNewReason() {
                 duration: 0.5,
                 ease: "elastic.out",
                 onComplete: () => {
-                    shuffleButton.textContent = "Dengerin dulu nih lagu keramat versi maneh💫";
+                    shuffleButton.textContent = "Dengerin dulu nih lagu keramat versi💫";
                     shuffleButton.classList.add('story-mode');
                     shuffleButton.addEventListener('click', () => {
                         gsap.to('body', {
