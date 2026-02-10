@@ -6,7 +6,7 @@ document.addEventListener('mousemove', (e) => {
 });
 
 // Typing effect for greeting
-const greetingText = "Haii, selamat ulang tahun yaa, aku ada sedikit ucapan for maneh 💖";
+const greetingText = "Haii, HBD yaa!! aku ada sedikit ucapan for maneh💖";
 const greetingElement = document.querySelector('.greeting');
 let charIndex = 0;
 
