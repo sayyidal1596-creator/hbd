@@ -1,22 +1,22 @@
  // Reasons database
  const reasons = [
     { 
-        text: "hbd kanjutt, kanjaa tukang cemberut😖💖", 
+        text: "Happy birthday My Lopee Kanjutt, kanjaa tukang cemberut(IZIIINN🙏🙏)😖💖", 
         emoji: "🌟",
         gif: "boneka1.gif"
     },
     { 
-        text: "semogaa panjang umur, sehat selalu, ga suka ngamuk muluu🌸 ", 
+        text: "Semogaa panjang umur, sehat selalu, ga suka ngamuk muluu, jadi anak kebanggan Mamah🌸 ", 
         emoji: "💗", 
         gif: "boneka2.gif"
     },
     { 
-        text: "jadi anak yang baik yes queen, jangan suka boong✨ ", 
+        text: "jadi anak yang baik yes queen, jangan suka boong, jaga diri, jangan lupa ibadah✨ ", 
         emoji: "💕",
         gif: "boneka3.gif"
     },
     { 
-        text: "intinyaa jadi pribadi yang baik dan jujur, pinter, dan terserah maneh dah doanya😘😘😘😘 ", 
+        text: "intinyaa jadi pribadi yang baik dan jujur, pinter, dan terserah maneh dah doanya lanjutin sendiri (AAMIIN)😘😘😘😘 ", 
         emoji: "🌟",
         gif: "boneka4.gif"
     }
@@ -76,7 +76,7 @@ function displayNewReason() {
                 duration: 0.5,
                 ease: "elastic.out",
                 onComplete: () => {
-                    shuffleButton.textContent = "Enter Our Storylane 💫";
+                    shuffleButton.textContent = "Dengerin dulu nih lagu keramat versi maneh💫";
                     shuffleButton.classList.add('story-mode');
                     shuffleButton.addEventListener('click', () => {
                         gsap.to('body', {
