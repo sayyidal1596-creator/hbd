@@ -11,7 +11,7 @@
         gif: "boneka2.gif"
     },
     { 
-        text: "jadi anak yang baik yes queen, jangan suka boong, jaga diri, jangan lupa ibadah✨Semogaa panjang umur, sehat selalu, ga suka ngamuk muluu, jadi anak kebanggan Mamah🌸, rezekinya dilancarinn dan semua yang diharapkan semoga cepet terkabul jugaa, sisanya tambahin sendirii jee, udaa banyak banget soalnyaa nii pegel  ", 
+        text: "jadi anak yang baik yes queen, jangan suka boong, jaga diri, jangan lupa ibadah✨Semogaa panjang umur, sehat selalu, ga suka ngamuk muluu,jadi anak kebanggan Mamah🌸, rezekinya dilancarinn dan semua yang diharapkan semoga cepet terkabul jugaa, sisanya tambahin sendirii jee, udaa banyak banget soalnyaa nii pegel  ", 
         emoji: "💕",
         gif: "boneka3.gif"
     },
